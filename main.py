@@ -23,3 +23,4 @@ score_map = {
     'other':1
 }
 print(get_total_scores('danielspofford', score_map))
+# making sure i push all my repls
